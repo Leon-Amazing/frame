@@ -13,4 +13,4 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/Leon-Amazing/css3.git master:gh-pages
+git push -f https://github.com/Leon-Amazing/frame.git master:gh-pages
