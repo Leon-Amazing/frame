@@ -8,11 +8,8 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: vue3 设计思想和理念
+      link: /vue/01.vue3设计思想和理念
 
 features:
   - title: Feature A
