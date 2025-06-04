@@ -25,7 +25,8 @@ export default defineConfig({
               { text: 'Vue3 响应式', link: '/vue/03.Vue3响应式' },
               { text: 'Reactive & Effect', link: '/vue/04.Reactive&Effect' },
               { text: 'Ref 实现原理', link: '/vue/05.Ref实现原理' },
-              { text: 'Computed', link: '/vue/06.Computed' }
+              { text: 'Computed', link: '/vue/06.Computed' },
+              { text: 'Watch', link: '/vue/07.Watch' },
             ]
           }
         ]
